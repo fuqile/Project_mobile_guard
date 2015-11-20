@@ -11,7 +11,7 @@ import android.view.View;
 
 import com.fochl.rdyst.project_mobile_guard.R;
 
-public class MainActivity extends AppCompatActivity {
+public class HomeActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
